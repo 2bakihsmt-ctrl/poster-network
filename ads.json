@@ -1,0 +1,13 @@
+{
+  "networkName": "Kirikabu Poster Network",
+  "version": 1782650675,
+  "updatedAt": "2026-06-28T21:44:35+09:00",
+  "formatVersion": 1,
+  "imageRule": {
+    "recommendedSize": "1448x2048",
+    "format": "PNG",
+    "orientation": "portrait",
+    "maxFileSizeMb": 5
+  },
+  "ads": []
+}
